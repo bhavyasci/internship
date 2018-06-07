@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "312539247707",
+    "firebase_url": "https://ray-project-intern.firebaseio.com",
+    "project_id": "ray-project-intern",
+    "storage_bucket": "ray-project-intern.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312539247707:android:42ef4588ec4cea31",
+        "android_client_info": {
+          "package_name": "com.ecs.ppp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312539247707-a1b5ldkio5bercjqdmp6rfhgnj2r4m07.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "312539247707-a1b5ldkio5bercjqdmp6rfhgnj2r4m07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3DtKxmmqgHBlyQRMd1kPznFWN_PcbM3k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

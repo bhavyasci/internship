@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/body"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/home_layout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/pppheader" />
+
+        <ImageButton
+            android:id="@+id/imgBtnQuit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/btnback" />
+
+        <ImageButton
+            android:id="@+id/imgBtnInfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/btninfo"
+            android:visibility="gone"/>
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spinInputType"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="22dp"
+        android:background="@drawable/btnlogin" />
+
+    <EditText
+        android:id="@+id/editUserPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spinUserId"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="18dp"
+        android:background="@drawable/password"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:paddingLeft="20dp" />
+
+    <Button
+        android:id="@+id/btnSignUp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btnsignup"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/btnLogin"
+        android:layout_marginBottom="56dp" />
+
+    <Spinner
+        android:id="@+id/spinUserId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/home_layout1"
+        android:layout_marginTop="24dp"
+        android:background="@drawable/inputbg"
+        android:gravity="center"
+        android:paddingLeft="20dp"
+        android:textColor="@android:color/black"
+        android:textSize="10pt" />
+
+    <Spinner
+        android:id="@+id/spinInputType"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/editUserPassword"
+        android:layout_marginTop="24dp"
+        android:background="@drawable/inputbg"
+        android:gravity="center"
+        android:paddingLeft="20dp"
+        android:textColor="@android:color/black"
+        android:textSize="10pt" />
+
+</RelativeLayout>

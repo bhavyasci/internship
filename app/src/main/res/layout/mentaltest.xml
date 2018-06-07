@@ -1,0 +1,171 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/body" >
+
+    <RelativeLayout
+        android:id="@+id/mentaltest_layout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:id="@+id/imgTitle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/mentaltestheader" />
+
+        <ImageButton
+            android:id="@+id/imgBtnSound"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="26dp"
+            android:background="@drawable/sound"
+            android:visibility="gone"/>
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/btnStart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/mentaltest_layout3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/start" />
+
+    <ImageButton
+        android:id="@+id/imgBtnNextEmo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/imgBtnEmoBack"
+        android:layout_marginRight="22dp"
+        android:background="@drawable/btn_test_next" />
+
+    <ImageButton
+        android:id="@+id/imgBtnEmoBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/btnStart"
+        android:layout_marginLeft="27dp"
+        android:layout_marginTop="21dp"
+        android:background="@drawable/btn_test_back" />
+
+    <RelativeLayout
+        android:id="@+id/mentaltest_layout2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/mentaltest_layout1"
+        android:background="@drawable/textbg" >
+
+        <TextView
+            android:id="@+id/txtLevelVal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/textView2"
+            android:layout_alignBottom="@+id/textView2"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="25dp"
+            android:text="1"
+            android:textColor="#e4e4e4"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txtLevelAch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/textView2"
+            android:layout_alignBottom="@+id/textView2"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="25dp"
+            android:layout_toRightOf="@+id/textView2"
+            android:text="0"
+            android:textColor="#e4e4e4"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/textView2"
+            android:layout_alignBottom="@+id/textView2"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="35dp"
+            android:layout_toLeftOf="@+id/txtLevelVal"
+            android:text="Level:"
+            android:textColor="#e4e4e4"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:text="Level Achieved: "
+            android:textColor="#e4e4e4"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/mentaltest_layout3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/mentaltest_layout2"
+        android:layout_marginTop="23dp" >
+
+        <ImageButton
+            android:id="@+id/imgBtnGreen"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/green" />
+
+        <ImageButton
+            android:id="@+id/imgBtnPink"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/imgBtnGreen"
+            android:layout_below="@+id/imgBtnBlue"
+            android:background="@drawable/pink" />
+
+        <ImageButton
+            android:id="@+id/imgBtnRed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/imgBtnPink"
+            android:layout_toLeftOf="@+id/imgBtnPink"
+            android:background="@drawable/red" />
+
+        <ImageButton
+            android:id="@+id/imgBtnBlue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imgBtnGreen"
+            android:layout_toRightOf="@+id/imgBtnGreen"
+            android:background="@drawable/blue" />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Note:After blinking tap on the appropriate block to score!"
+        android:id="@+id/textView3"
+        android:layout_below="@+id/imgBtnNextEmo"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

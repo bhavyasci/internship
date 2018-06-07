@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

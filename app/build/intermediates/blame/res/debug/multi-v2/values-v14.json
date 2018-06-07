@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "17",
+                        "endColumns": "61",
+                        "endOffsets": "76"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "62",
+                        "endOffsets": "113"
+                    }
+                }
+            ]
+        }
+    ]
+}

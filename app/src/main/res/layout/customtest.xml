@@ -1,0 +1,86 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/body" >
+
+    <ImageView
+        android:id="@+id/imgTitle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/customtestheader" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/imgTitle"
+        android:background="@drawable/customtext" />
+
+    <EditText
+        android:id="@+id/editScore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editTestName"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="28dp"
+        android:background="@drawable/scorerating"
+        android:ems="10"
+        android:text="0"
+        android:gravity="center"
+        android:textSize="@dimen/padding_large" />
+
+    <ImageButton
+        android:id="@+id/imgBtnNextEmo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/editTestName"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/btn_test_next" />
+
+    <ImageButton
+        android:id="@+id/imgBtnEmoBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editTestName"
+        android:layout_alignTop="@+id/imgBtnNextEmo"
+        android:background="@drawable/btn_test_back" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/editScore"
+        android:layout_marginTop="21dp"
+        android:background="@drawable/textbg"
+        android:gravity="center"
+        android:text="Score"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#cbc6c6" />
+
+    <EditText
+        android:id="@+id/editTestName"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/imageView1"
+        android:layout_marginTop="14dp"
+        android:background="@drawable/customname"
+        android:ems="10"
+        android:paddingLeft="20dp"
+        android:singleLine="true" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/imgBtnNextEmo"
+        android:src="@drawable/circle_icon" />
+
+</RelativeLayout>

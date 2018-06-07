@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/body"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/registra"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/pppheader"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentLeft="true" />
+
+        <ImageButton
+            android:id="@+id/imgBtnBack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="16dp"
+            android:background="@drawable/btnback" />
+
+        <ImageButton
+            android:id="@+id/imgBtnInfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="22dp"
+            android:background="@drawable/btninfo" />
+
+    </RelativeLayout>
+
+    <EditText
+        android:id="@+id/editUserPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editUserId"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="27dp"
+        android:background="@drawable/inputhome"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:paddingLeft="20dp" />
+
+    <EditText
+        android:id="@+id/editUserConfPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editUserPassword"
+        android:layout_below="@+id/editUserPassword"
+        android:layout_marginTop="33dp"
+        android:background="@drawable/inputhome"
+        android:hint="Retype Password"
+        android:inputType="textPassword"
+        android:paddingLeft="20dp" />
+
+    <EditText
+        android:id="@+id/editUserId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editUserPassword"
+        android:layout_below="@+id/registra"
+        android:layout_marginTop="54dp"
+        android:background="@drawable/inputhome"
+        android:ems="10"
+        android:hint="User Id"
+        android:paddingLeft="20dp" >
+
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/btnRegister"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editUserConfPassword"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/btnregister" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/btnRegister"
+        android:layout_below="@+id/btnRegister"
+        android:layout_marginTop="15dp"
+        android:src="@drawable/circle_icon" />
+
+</RelativeLayout>

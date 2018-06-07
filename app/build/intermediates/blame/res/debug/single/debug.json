@@ -1,0 +1,746 @@
+[
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/083aab870ac1e9feb0c8247f28d92a3a/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_strip.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/strip.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout-v16_notification_template_custom_big.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_input.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/input.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_search.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_redact.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/redact.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_inputhome.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/inputhome.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_save_act.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/save_act.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_seek_handler.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/seek_handler.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable_btnback.xml.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable/btnback.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_login_act.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/login_act.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_light.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable_btnwelcomestart.xml.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable/btnwelcomestart.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_pink.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/pink.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable_seekbar_progress.xml.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable/seekbar_progress.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_welcome_start_act.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/welcome_start_act.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_sound.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/sound.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout_splash.xml.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/layout/splash.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_score.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/score.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_back_act.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/back_act.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_pinkact.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/pinkact.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable-hdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout_testmenu.xml.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/layout/testmenu.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_img_seekbar_bg.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/img_seekbar_bg.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_signup.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/signup.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_testback_act.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/testback_act.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_search.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-xhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_back.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/back.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_blueact.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/blueact.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/menu_home.xml.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/menu/home.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_signup_act.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/signup_act.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_login.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/login.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_search.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout_mentaltest.xml.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/layout/mentaltest.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_main_text.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/main_text.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_dropsimple.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/dropsimple.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable_btninfo.xml.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable/btninfo.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_red.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/red.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout_calculate.xml.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/layout/calculate.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable_seekbar_progress_bg.xml.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable/seekbar_progress_bg.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout_notification_action.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable_btn_test_back.xml.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable/btn_test_back.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_img_seekbar_progress_blue.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/img_seekbar_progress_blue.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_backact.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/backact.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_box.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/box.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout_notification_template_icon_group.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout_notification_template_custom_big.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable_btnlogin.xml.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable/btnlogin.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_welcome_start.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/welcome_start.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_testnext_act.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/testnext_act.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout_graphview.xml.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/layout/graphview.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout_selftest.xml.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/layout/selftest.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout_notification_action_tombstone.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_dropselect.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/dropselect.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable_btnsignup.xml.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable/btnsignup.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_splashscreen.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/splashscreen.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_soundact.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/soundact.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_testback.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/testback.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout_emotionaltest.xml.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/layout/emotionaltest.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_register_act.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/register_act.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout_info.xml.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/layout/info.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_customtext.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/customtext.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/083aab870ac1e9feb0c8247f28d92a3a/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_start_act.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/start_act.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_foot_strip.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/foot_strip.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_calculateheader.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/calculateheader.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout_my_spinner_style.xml.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/layout/my_spinner_style.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable_btnregister.xml.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable/btnregister.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_scorerating.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/scorerating.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout_notification_template_big_media.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/083aab870ac1e9feb0c8247f28d92a3a/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_pickabcbg.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/pickabcbg.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout_notification_template_media_custom.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/083aab870ac1e9feb0c8247f28d92a3a/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_emotionaltestheader.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/emotionaltestheader.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/083aab870ac1e9feb0c8247f28d92a3a/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout_upgradation.xml.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/layout/upgradation.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_tint.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout_notification_media_cancel_action.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/083aab870ac1e9feb0c8247f28d92a3a/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_testnext.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/testnext.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_circle_icon.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/circle_icon.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout_customtest.xml.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/layout/customtest.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_selftext.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/selftext.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable_btn_test_next.xml.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable/btn_test_next.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_selftestheader.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/selftestheader.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout_registration.xml.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/layout/registration.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/raw_beep.mp3.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/raw/beep.mp3"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_password.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/password.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_greenact.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/greenact.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_pppheader.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/pppheader.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_close_act.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/close_act.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_inputbg.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/inputbg.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_textbg.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/textbg.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_mentaltestheader.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/mentaltestheader.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_save.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/save.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable_btnsave.xml.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable/btnsave.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_custom.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/083aab870ac1e9feb0c8247f28d92a3a/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/083aab870ac1e9feb0c8247f28d92a3a/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_register.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/register.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_body.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/body.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_nextact.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/nextact.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout_userlistlayout.xml.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/layout/userlistlayout.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable_btnclose.xml.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable/btnclose.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_customname.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/customname.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/083aab870ac1e9feb0c8247f28d92a3a/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_start.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/start.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_info.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/info.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_green.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/green.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_close.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/close.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_customtestheader.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/customtestheader.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_head_strip.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/head_strip.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_info_act.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/info_act.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable_btnstart.xml.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable/btnstart.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout_home.xml.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/layout/home.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout_adminhome.xml.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/layout/adminhome.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_blue.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/blue.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout_graph_show.xml.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/layout/graph_show.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9cbcd9696bafdca55979b3e0244a79f6/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi_droptext.png.flat",
+        "source": "/home/bhavya/AndroidStudioProjects/internship game/app/src/main/res/drawable-mdpi/droptext.png"
+    },
+    {
+        "merged": "/home/bhavya/AndroidStudioProjects/internship game/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a1dc8ed2504fb11c164d384f42c066cb/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+    }
+]
